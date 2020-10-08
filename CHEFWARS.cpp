@@ -43,6 +43,7 @@ int32_t main() {
 			h = h - p;
 			p = p / 2;
 
+
 			//cout << h << " " << p << endl;
 		}
 		//cout << h << " " << p << endl;
